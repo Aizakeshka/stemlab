@@ -23,7 +23,6 @@ from fastapi.exceptions import RequestValidationError
 from pydantic import BaseModel, Field, field_validator, model_validator
 
 
-c
 
 ROUND_DIGITS = 3
 
